@@ -2,7 +2,7 @@
 
 A modern, responsive web application built with React and TypeScript to help students track and maintain their attendance requirements. The app provides real-time calculations and insights to ensure students maintain the minimum 75% attendance requirement.
 
-![Attendance Calculator Preview](https://github.com/your-username/attendance-calculator/raw/main/preview.png)
+![Attendance Calculator Preview](https://github.com/lakshya-hidau/attendance-calculator/raw/main/preview.png)
 
 ## Features
 
@@ -35,7 +35,7 @@ A modern, responsive web application built with React and TypeScript to help stu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/attendance-calculator.git
+   git clone https://github.com/lakshya-hidau/attendance-calculator.git
    ```
 
 2. Install dependencies:
