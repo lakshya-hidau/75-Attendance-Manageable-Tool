@@ -2,7 +2,7 @@
 
 A modern, responsive web application built with React and TypeScript to help students track and maintain their attendance requirements. The app provides real-time calculations and insights to ensure students maintain the minimum 75% attendance requirement.
 
-![Attendance Calculator Preview](https://github.com/lakshya-hidau/attendance-calculator/raw/main/preview.png)
+![Attendance Calculator Preview](https://smart-attendance-tracker.netlify.app/)
 
 ## Features
 
